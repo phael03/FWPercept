@@ -1,0 +1,10 @@
+C:\Users\Raphael\documents\visual studio 2012\Projects\Percept\Percept\bin\Debug\libpxcclr.dll
+C:\Users\Raphael\documents\visual studio 2012\Projects\Percept\Percept\bin\Debug\Microsoft.Kinect.Toolkit.BackgroundRemoval.dll
+C:\Users\Raphael\documents\visual studio 2012\Projects\Percept\Percept\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Raphael\documents\visual studio 2012\Projects\Percept\Percept\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Raphael\documents\visual studio 2012\Projects\Percept\Percept\bin\Debug\Microsoft.Kinect.Toolkit.Fusion.dll
+C:\Users\Raphael\documents\visual studio 2012\Projects\Percept\Percept\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Raphael\documents\visual studio 2012\Projects\Percept\Percept\bin\Debug\FwPercept.dll
+C:\Users\Raphael\documents\visual studio 2012\Projects\Percept\Percept\bin\Debug\FwPercept.pdb
+C:\Users\Raphael\documents\visual studio 2012\Projects\Percept\Percept\obj\Debug\FwPercept.dll
+C:\Users\Raphael\documents\visual studio 2012\Projects\Percept\Percept\obj\Debug\FwPercept.pdb
